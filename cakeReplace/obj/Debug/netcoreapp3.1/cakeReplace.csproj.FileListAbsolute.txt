@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\cakeReplace\bin\Debug\netcoreapp3.1\cakeReplace.exe
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\cakeReplace\bin\Debug\netcoreapp3.1\cakeReplace.deps.json
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\cakeReplace\bin\Debug\netcoreapp3.1\cakeReplace.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\cakeReplace\bin\Debug\netcoreapp3.1\cakeReplace.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\cakeReplace\bin\Debug\netcoreapp3.1\cakeReplace.dll
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\cakeReplace\bin\Debug\netcoreapp3.1\cakeReplace.pdb
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\cakeReplace\obj\Debug\netcoreapp3.1\cakeReplace.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\cakeReplace\obj\Debug\netcoreapp3.1\cakeReplace.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\cakeReplace\obj\Debug\netcoreapp3.1\cakeReplace.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\cakeReplace\obj\Debug\netcoreapp3.1\cakeReplace.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\cakeReplace\obj\Debug\netcoreapp3.1\cakeReplace.dll
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\cakeReplace\obj\Debug\netcoreapp3.1\cakeReplace.pdb
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\cakeReplace\obj\Debug\netcoreapp3.1\cakeReplace.genruntimeconfig.cache
